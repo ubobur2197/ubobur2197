@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>👋 Hi, I'm <a href="https://github.com/ubobur2197">Bobur</a></h1>
-  <p><em>Backend Developer</em></p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&color=2ECC71&center=true&vCenter=true&width=700&lines=Hi,+I'm+Bobur+Ulug'bekov;Fullstack+Developer;Welcome+to+my+GitHub+profile" />
+
 </div>
+
 
 ---
 
